@@ -3,6 +3,6 @@ Shopping List:
 Apples
 Oranges
 Bananas
-cherries
-carrots
+Cherries
+Carrots
 Cereal
